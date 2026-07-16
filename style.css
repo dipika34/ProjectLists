@@ -1,0 +1,26 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+}
+img{
+    width:300px;
+    border-top-left-radius: 5px;
+    border-bottom-right-radius: 10px;
+
+}
+
+h1{
+    margin: 0 6px;
+}
+p{
+    margin: 10px 6px;
+}
+#head1{
+    margin: 0 6px;
+}
+#head2{
+    margin: 0 6px;
+}
+.image{
+    margin: 0 25px;
+}
